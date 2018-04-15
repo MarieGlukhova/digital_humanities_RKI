@@ -12,8 +12,9 @@
 •	MWF: min-100, max-100
 •	CULLING: min-0, max-0
 •	Cluster Analysis 
-При кластерном анализе мы получили такой граф (дерево): 
-![GitHub Logo]()
+
+При кластерном анализе мы получили такой граф (дерево): ![GitHub Logo](blob:https://web.telegram.org/b29c55a4-174b-461f-9050-5db615bf3a21)
+
 
 ![GitHub Logo]()
 ![GitHub Logo]()
