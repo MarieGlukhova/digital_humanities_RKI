@@ -121,15 +121,12 @@ Culling анализирует авторство также по вордлис
 19. [А. Пушкин Сказка о золотом петушке](http://rvb.ru/pushkin/01text/03fables/01fables/0801.htm)
 20. [А. Пушкин Руслан и Людмила](http://rvb.ru/pushkin/01text/02poems/01poems/0784.htm)
 21. [А. Пушкин Жених](http://vseskazki.su/avtorskie-skazki/skazki-pushkina-online/zhenih-ballada.html)
-22. [И. Крылов ]()
-23. [И. Крылов ]()
-24. [И. Крылов ]()
-25. [И. Крылов ]()
-26. [И. Крылов ]()
-27. [И. Крылов ]()
-28. [И. Крылов ]()
-
-
+22. [И. Крылов Щука ](http://rvb.ru/18vek/krylov/01text/vol3/01fables/205.htm)
+23. [И. Крылов Булат](http://rvb.ru/18vek/krylov/01text/vol3/01fables/210.htm)
+24. [И. Крылов Лев ](http://rvb.ru/18vek/krylov/01text/vol3/01fables/222.htm)
+25. [И. Крылов Лещи](http://krylov.lit-info.ru/krylov/basni/leschi.htm)
+26. [И. Крылов Оракул](http://rvb.ru/18vek/krylov/01text/vol3/01fables/045.htm)
+27. [Е. Баратынский Сцена из Поемы](http://az.lib.ru/b/baratynskij_e_a/text_0160.shtml)
 
 
 
