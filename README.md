@@ -13,7 +13,7 @@
 •	CULLING: min-0, max-0
 •	Cluster Analysis 
 
-При кластерном анализе мы получили такой граф (дерево): ![GitHub Logo](blob:https://web.telegram.org/b29c55a4-174b-461f-9050-5db615bf3a21)
+При кластерном анализе мы получили такой граф (дерево): ![GitHub Logo](https://psv4.userapi.com/c834702/u5573227/docs/d1/482fd60cb4f4/kartinka_1.png?extra=HFJyiAQVCxeqm_yEvLYATe08BItpPK-nlnLpWCIC5-mD4ivnztU9J6951VVAguw3p4-AI2LuSEfZIEHeiWZ427AblBxkX6inYYIB1Dz4vjEsnLUhVJmKYQgo6-8sng-e3pmL9_sf)
 
 
 ![GitHub Logo]()
